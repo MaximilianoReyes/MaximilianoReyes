@@ -4,12 +4,6 @@
   </ul>
 </div>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, React, Nodejs, MongoDB**
 
@@ -36,7 +30,7 @@
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,css,docker,postgres,dynamodb,express,github,html,js,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes,linux&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,tailwind,py,mongodb,aws,postgres&perline=14" />
   </a>
 </p>
 
